@@ -1,5 +1,5 @@
 {
-  "name": "Shizuka",
+  "name": "Botsito",
   "version": "2.2.0",
   "description": "WhatsApp Bot Multi Device",
   "main": "index.js",
@@ -18,16 +18,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/Kone457/Shizuka-AI",
+  "homepage": "https://github.com/Lizbot123/Botsita-turbo",
   "author": {
     "name": "Carlos"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kone457/Shizuka-AI.git"
+    "url": "git+https://github.com/Lizbot123/Botsita-turbo.git"
   },
   "bugs": {
-    "url": "https://github.com/Kone457/Shizuka-AI/issues"
+    "url": "https://github.com/Lizbot123/Botsita-turbo/issues"
   },
   "license": "MIT-License",
   "dependencies": {
