@@ -1,10 +1,10 @@
 let handler = async (m, { conn }) => {
-  const suittag = '5355699866' // Número del creador
-  const botname = 'Shizuka-AI'
-  const github = 'https://github.com/Kone457/Shizuka-AI'
-  const canal = 'https://whatsapp.com/channel/0029VbAVMtj2f3EFmXmrzt0v'
-  const packname = 'Shizuka-AI'
-  const dev = 'Carlos'
+  const suittag = '5219518476051' // Número del creador
+  const botname = 'Botsita-turbo'
+  const github = 'https://github.com/Lizbot123/Botsita-turbo'
+  const canal = 'https://whatsapp.com/channel/0029Vaein6eInlqIsCXpDs3y'
+  const packname = 'Botsita-turbo'
+  const dev = 'Mariela'
   const numero = `+${suittag}`
 
   await m.react('📇')
