@@ -14,7 +14,7 @@ global.botNumber = '' //Ejemplo: 123456789
 
 global.owner = [
 
-  ['5355699866', '🜲 Propietario 🜲', true],
+  ['5219518476051', '🜲 Propietario 🜲', true],
 
   ['+261271484104740@lid'],
 
@@ -22,14 +22,14 @@ global.owner = [
 
   ['+261271484104740'], 
 
-  ['5355699866']
+  ['5219518476051']
 
 ];
 
 //-----------------------------
 
-global.mods = ['5355699866']
-global.suittag = ['5355699866'] 
+global.mods = ['5219518476051']
+global.suittag = ['5219518476051'] 
 global.prems = []
 
 //-----------------------------
@@ -37,21 +37,21 @@ global.prems = []
 global.libreria = 'Baileys'
 global.baileys = 'V 6.7.16' 
 global.vs = '1.0'
-global.nameqr = 'Shizuka-AI'
-global.namebot = 'Shizuka-AI'
+global.nameqr = 'Botsita-turbo'
+global.namebot = 'Botsita-turbo'
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
 
 
 //-----------------------------
 
-global.packname = '「𝑆ℎ𝑖𝑧𝑢𝑘𝑎-𝐴𝐼」'
-global.botname = 'Shizuka-AI'
-global.wm = '𝙎𝙃𝙄𝙕𝙐𝙆𝘼-𝘼𝙄'
-global.author = 'Power By Carlos'
-global.dev = '© 𝙋𝙤𝙬𝙚𝙧-𝙗𝙮-Carlos°'
-global.textbot = '𝙎𝙝𝙞𝙕𝙪𝙠𝙖-𝘼𝙄 𝙋𝙤𝙬𝙚𝙧 𝙗𝙮 Carlos '
-global.etiqueta = 'Carlos'
+global.packname = '「Botsita-turbo」'
+global.botname = 'Botsita-turbo'
+global.wm = 'Botsita-turbo'
+global.author = 'Power By Mariela'
+global.dev = '© 𝙋𝙤𝙬𝙚𝙧-𝙗𝙮-Mariela°'
+global.textbot = 'Botsita-turbo 𝙋𝙤𝙬𝙚𝙧 𝙗𝙮 Mariela '
+global.etiqueta = 'Mariela'
 
 
 //-----------------------------
@@ -89,13 +89,13 @@ global.avatar = 'https://raw.githubusercontent.com/Kone457/Nexus/refs/heads/main
 
 //-----------------------------
 
-global.gp1 = 'https://chat.whatsapp.com/FULTpMKUnwcI6zR7LT3qsW'
-global.comunidad1 = 'https://chat.whatsapp.com/KUQIRhtLBir2FhiiFuqbGO'
-global.channel = 'https://whatsapp.com/channel/0029VbAVMtj2f3EFmXmrzt0v'
-global.channel2 = 'https://whatsapp.com/channel/0029VbAVMtj2f3EFmXmrzt0v'
-global.md = 'https://github.com/Kone457/Shizuka-AI'
-global.correo = 'c2117620@gmail.com'
-global.cn ='https://whatsapp.com/channel/0029VbAVMtj2f3EFmXmrzt0v';
+global.gp1 = 'https://whatsapp.com/channel/0029Vaein6eInlqIsCXpDs3y'
+global.comunidad1 = 'https://whatsapp.com/channel/0029Vaein6eInlqIsCXpDs3y'
+global.channel = 'https://whatsapp.com/channel/0029Vaein6eInlqIsCXpDs3y'
+global.channel2 = 'https://whatsapp.com/channel/0029Vaein6eInlqIsCXpDs3y'
+global.md = 'https://github.com/Lizbot123/Botsita-turbo'
+global.correo = 'lisbethperez2214@gmail.com'
+global.cn ='https://whatsapp.com/channel/0029Vaein6eInlqIsCXpDs3y';
 
 //-----------------------------
 
